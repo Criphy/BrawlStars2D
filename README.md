@@ -10,4 +10,4 @@ Helpers:
 - **Pepsa** (tg: @Hr0SH)
 
 # WARNING
-THIS "GAME" IS NOT COPY OFFICIAL GAME "Brawl Stars"!
+THIS "GAME" ISN'T A COPY OF OFFICIAL GAME "Brawl Stars"!
