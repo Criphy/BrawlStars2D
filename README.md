@@ -3,6 +3,7 @@
 The game created in PL "Processing".
 ## Contributors
 Author —  **BIDGAR|BS** (tg: @BIDGARBSDev)
+
 Helpers:
 - **Cr1phy** (tg: @cr1phy)
 - **Megalodon** (tg: @Ralzei228)
